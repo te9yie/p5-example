@@ -18,6 +18,7 @@
   },
   "scripts": {
     "build": "webpack",
+    "build:pro": "webpack --mode=production",
     "serve": "webpack serve"
   }
 }
